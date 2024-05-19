@@ -1,2 +1,3 @@
-# Mihaela-van-der-Schaar-Repository
-Provisional name and description. Please, change it.
+# Salivary Gland Ultrasonography (SGUS) classification
+Deep learning model to automatically classify US images from the parotid
+and submandibular glands following the OMERACT scale.
